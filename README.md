@@ -1,6 +1,4 @@
 #RoadPuzzleSolver
-Road Puzzle Solver
-
 
 This is Road Puzzle Solver.  
 
